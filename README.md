@@ -2,7 +2,7 @@
 
 I am a passionate **Full-Stack Web Developer** currently focused on building responsive, dynamic, and user-centric web applications using modern JavaScript ecosystems. 
 
-- 🌍  Check out my live portfolio: **[portfolio-ten-dun-4nu8qwe4ah.vercel.app](https://portfolio-ten-dun-4nu8qwe4ah.vercel.app/)**
+- 🌍  Check out my live portfolio: **[https://prabindahal67.com.np/](https://prabindahal67.com.np/)**
 - 🔭  I’m currently working on sharpening my full-stack integration skills.
 - 🌱  I’m actively learning advanced backend architectures and secure coding practices.
 - 💬  Ask me about **React transitions, state management, or Tailwind layouts**.
